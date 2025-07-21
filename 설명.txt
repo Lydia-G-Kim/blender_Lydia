@@ -1,0 +1,18 @@
+edit 모드
+선을 클릭 후 alt 누르고 선을 클릭하면 그 선이 다 클릭되고, shift 같이 누르면 다른 라인도 선택 가능
+면을 클릭 후 alt 누르고 선을 클릭하면 그 면이 다 클릭되고, shift 같이 누르면 다른 라인도 선택 가능
+
+점을 늘리는 기능 -> subdvide
+
+inset face - 안쪽으로 새로운 면 생성
+t + C 중간 초점 원상태로
+
+우측 메뉴바 curve
+geometry : extrude 길이 늘리기
+bevel - round : depth 두깨
+
+shift
+
+convert to + mesh -> 폴리건으로 바꿈
+몽키스패너 + add modifier -> generate -> screw :반 원통을 원통으로 바꿈
+
