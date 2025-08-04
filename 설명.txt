@@ -16,3 +16,17 @@ shift
 convert to + mesh -> 폴리건으로 바꿈
 몽키스패너 + add modifier -> generate -> screw :반 원통을 원통으로 바꿈
 
+
+유리는 IOR 굴절을 1.33
+물은 1.6
+얼음 1.72
+보석 2.2
+1은 굴절율이 없음
+
+ROUGHNESS는 거칠기
+
+ALPHA는 게임에서만 진행
+NORMAL 오돌도돌한 정도를 줄 수 있음
+
+poly haven
+https://polyhaven.com/hdris
