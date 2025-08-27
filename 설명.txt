@@ -52,7 +52,9 @@ https://polyhaven.com/hdris
 
 
 
+ㅡㅡ
 
+초기 joint 생성 시에는 object에서, 이후 추가는 edit에서. 움직일 때는 pose에서 
 
 
 
